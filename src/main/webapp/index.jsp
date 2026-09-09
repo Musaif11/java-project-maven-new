@@ -41,7 +41,7 @@
         <div class="carousel">
             <!-- <div class="slider">
                 <div class="slide-content">
-                    <h1 class="movie-title">loki</h1>
+                    <h1 class="movie-title">Gopi Bahu</h1>
                     <p class="movie-des">Lorem ipsum title, sit amet consectetur adipisicing elit. Quam distinctio molestiae quis praesentium cum obcaecati eveniet voluptates exercitationem eum accusantium.</p>
                 </div>
                 <img src="./assets/img/slider 1.png" alt="Slider">
@@ -106,8 +106,8 @@
             <div class="card">
                 <img src="./assets/img/poster 2.png" class="card-img" alt="">
                 <div class="card-body">
-                    <h2 class="name">Mulan</h2>
-                    <h6 class="des">saif Mulan dolor sit consectetur elit.</h6>
+                    <h2 class="name">Amreen</h2>
+                    <h6 class="des">Amreen Azeem Fatima from Hyderabad.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
             </div>
